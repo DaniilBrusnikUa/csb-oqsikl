@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://daniilbrusnikua.github.io/csb-oqsikl/static/js/main.1aa2c7d5.chunk.js",
+    "main.js.map": "https://daniilbrusnikua.github.io/csb-oqsikl/static/js/main.1aa2c7d5.chunk.js.map",
+    "runtime-main.js": "https://daniilbrusnikua.github.io/csb-oqsikl/static/js/runtime-main.ef85a507.js",
+    "runtime-main.js.map": "https://daniilbrusnikua.github.io/csb-oqsikl/static/js/runtime-main.ef85a507.js.map",
+    "static/js/2.161db5c1.chunk.js": "https://daniilbrusnikua.github.io/csb-oqsikl/static/js/2.161db5c1.chunk.js",
+    "static/js/2.161db5c1.chunk.js.map": "https://daniilbrusnikua.github.io/csb-oqsikl/static/js/2.161db5c1.chunk.js.map",
+    "index.html": "https://daniilbrusnikua.github.io/csb-oqsikl/index.html",
+    "static/js/2.161db5c1.chunk.js.LICENSE.txt": "https://daniilbrusnikua.github.io/csb-oqsikl/static/js/2.161db5c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef85a507.js",
+    "static/js/2.161db5c1.chunk.js",
+    "static/js/main.1aa2c7d5.chunk.js"
+  ]
+}
